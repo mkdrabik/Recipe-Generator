@@ -1,3 +1,6 @@
+https://github.com/mkdrabik/Foody/assets/111398844/0a9581da-0dfb-4c36-b11d-33d9117cc0c5
+
+
 # Foody
 
 Welcome to Foody, the app that simplifies your cooking experience! Whether you're a seasoned chef or a culinary newbie, Foody helps you discover and manage recipes based on ingredients you already have at home.
@@ -36,7 +39,4 @@ Here's a quick guide on how to use the main features of Foody:
 
 
 Thank you for choosing Foody, and happy cooking!
-
-
-https://github.com/mkdrabik/Foody/assets/111398844/0a9581da-0dfb-4c36-b11d-33d9117cc0c5
 
