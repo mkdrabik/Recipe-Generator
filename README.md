@@ -30,14 +30,16 @@ Here's a quick guide on how to use the main features of Foody:
 - **Adding to Your Pantry**:
   - Navigate to the Pantry section.
   - Add new food items to reflect your pantry.
+  - Items are automatically sorted into freezer, fridge, and pantry. 
   - Delete items as you see fit.
+  - Your pantry is locally stored on your device so you always know what you have. 
 
 - **Finding Recipes**:
-  - Go to the recipes finder tab.
-  - Enter the ingredients you have and want to use.
+  - Select the ingredients you want to use.
+  - Click Create Recipes. 
   - Browse through the recipe suggestions and select one for instructions.
 
-Note: Cannot include code do to private GPT access code. 
+Note: Cannot include code due to private GPT access code. 
 
-Thank you for choosing Foody, and happy cooking!
+
 
