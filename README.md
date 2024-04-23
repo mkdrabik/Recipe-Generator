@@ -37,6 +37,7 @@ Here's a quick guide on how to use the main features of Foody:
   - Enter the ingredients you have and want to use.
   - Browse through the recipe suggestions and select one for instructions.
 
+Note: Cannot include code do to private GPT access code. 
 
 Thank you for choosing Foody, and happy cooking!
 
