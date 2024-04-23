@@ -36,3 +36,7 @@ Here's a quick guide on how to use the main features of Foody:
 
 
 Thank you for choosing Foody, and happy cooking!
+
+
+https://github.com/mkdrabik/Foody/assets/111398844/0a9581da-0dfb-4c36-b11d-33d9117cc0c5
+
