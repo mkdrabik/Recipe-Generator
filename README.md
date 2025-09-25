@@ -39,7 +39,6 @@ Here's a quick guide on how to use the main features of Foody:
   - Click Create Recipes. 
   - Browse through the recipe suggestions and select one for instructions.
 
-Note: Cannot include all code due to private GPT access code. 
 
 
 
